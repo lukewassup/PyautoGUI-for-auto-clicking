@@ -1,2 +1,1 @@
-# DM_Work
-Daily work &amp; problems during work
+pyautogui used in stability of game testing
