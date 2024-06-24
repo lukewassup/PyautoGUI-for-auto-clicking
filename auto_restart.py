@@ -138,8 +138,8 @@ def copy_dll():
 
 if __name__ == '__main__':
     wmi = win32com.client.GetObject("winmgmts:")
-    notice_url= 'https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=b570ab90-551a-4790-87b9-a0fb7c0a2afb'
-    crash_report_url = 'https://crash-report.digisky.com/type/FromTheForgotten'
+    notice_url= '********************************************************'
+    crash_report_url = '********************************'
     dgs_dir = r'C:\Users\Public\Documents\DigiskyGameSync\game_install_info.json'
     pub_crash_dir = '\\192.168.61.175\wtshare\稳定性测试\客户端崩溃日志'
     cnt = 0
