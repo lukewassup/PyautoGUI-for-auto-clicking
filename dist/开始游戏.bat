@@ -1,0 +1,2 @@
+auto_restart.exe
+pause

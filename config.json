@@ -1,0 +1,6 @@
+{
+    "Version" : "Q5",
+    "RT" : "2",
+    "WT" : "10",
+    "Params" : "-SceneCapture -stomp2malloc"
+}
